@@ -90,3 +90,17 @@ h3{
     color: black;
     padding-left: 25px;
 }
+
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #782221;
+    padding-top: 10px;
+    color: white;
+}
+
+.social:hover{
+    opacity: 75%;
+}
